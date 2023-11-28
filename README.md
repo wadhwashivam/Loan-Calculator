@@ -1,6 +1,6 @@
 # Loan Calculator
 
-This simple web application provides a user-friendly interface to calculate loan-related information such as EMI (Equated Monthly Installment), total loan amount, and total interest. The application is built using HTML, CSS, and JavaScript.
+This simple web application provides a user-friendly interface to calculate loan-related information such as EMI (Equated Monthly Installment), total loan amount, and total interest.
 
 ## Technologies Used
 
